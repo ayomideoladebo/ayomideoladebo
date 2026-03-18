@@ -22,53 +22,75 @@ I turn ideas into fast, scalable, and conversion-focused web products.
 
 ## 🚀 About Me
 
-- 💻 I build real-world products, not just practice projects  
-- ⚡ Currently creating SaaS tools and digital platforms  
-- 🎯 Obsessed with clean UI, speed, and user experience  
-- 🏗 From real estate → streaming → service platforms  
-- 📈 Documenting my journey & growing my brand daily  
+<p align="center">
+💻 I build real-world products, not just practice projects <br/>
+⚡ Currently creating SaaS tools and digital platforms <br/>
+🎯 Obsessed with clean UI, speed, and user experience <br/>
+🏗 Built platforms across real estate, streaming & services <br/>
+📈 Growing my personal brand daily
+</p>
 
 ---
 
 ## 🛠 Tech Stack
 
-### 👨‍💻 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+<strong>Frontend</strong><br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
-### ⚙️ Backend & CMS
+<br/>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,wordpress" />
+<strong>Backend & CMS</strong><br/><br/>
+<img src="https://skillicons.dev/icons?i=php,wordpress" />
 </p>
 
-### 🧰 Tools & Workflow
+<br/>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<strong>Tools & Workflow</strong><br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ---
 
 ## 🔥 Featured Projects
 
-✨ Projects I've built that solve real problems:
+<p align="center">
 
-- 🏠 **Crown Real Estate** → Property listing platform  
-- 📡 **VTU Nigeria** → Digital services & recharge system  
-- 🎬 **Showfim** → Streaming platform  
-- 🏗 **E&M Management** → Investment website  
-- 🚧 **E&M Express** → Construction company site  
+🏠 <strong>Crown Real Estate</strong> → Property listing platform <br/><br/>
+
+📡 <strong>VTU Nigeria</strong> → Digital services & recharge system <br/><br/>
+
+🎬 <strong>Showfim</strong> → Streaming platform <br/><br/>
+
+🏗 <strong>E&M Management</strong> → Investment website <br/><br/>
+
+🚧 <strong>E&M Express</strong> → Construction company site
+
+</p>
 
 ---
 
-## 📊 GitHub Activity
+## 🎯 What I Bring
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayomideoladebo&show_icons=true&theme=tokyonight&hide_border=true" />
+⚡ Fast, responsive and modern UI development <br/>
+🧠 Problem-solving mindset, not just coding <br/>
+📦 Ability to turn ideas into real products <br/>
+🚀 Focus on performance and scalability <br/>
+💼 Experience working on real client projects
 </p>
 
+---
+
+## 🧠 Currently Building
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ayomideoladebo&theme=tokyonight&hide_border=true" />
+🚀 SaaS tools and digital platforms <br/>
+🌐 Improving frontend architecture skills <br/>
+💡 Exploring smarter ways to monetize tech
 </p>
 
 ---
@@ -96,8 +118,8 @@ I turn ideas into fast, scalable, and conversion-focused web products.
 
 ```js
 const ayomide = {
-  code: ["HTML", "CSS", "JavaScript", "TypeScript"],
-  tools: ["React", "Next.js", "WordPress", "Tailwind"],
+  role: "Frontend Developer",
+  stack: ["React", "Next.js", "WordPress"],
   focus: "Building scalable digital products",
-  currentGoal: "Turning ideas into SaaS businesses 🚀",
+  mindset: "Code + Business",
 };
