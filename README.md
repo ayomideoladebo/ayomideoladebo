@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ayomide</h1>
+<h3 align="center">Frontend & WordPress Developer</h3>
 
-<!--
-**ayomideoladebo/ayomideoladebo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 💻 I build modern web apps
+- 🌱 Currently improving my React & WordPress skills
+- ⚡ Building products like Slobi.link
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,wordpress" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=ayomideoladebo&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=ayomideoladebo&theme=tokyonight)
+
+---
+
+### 🔥 Top Projects
+- 🌐 Crown Real Estate
+- 🚀 VTU Nigeria
+- 🎬 Showfim
+
+---
+
+### 📫 Connect With Me
+- Twitter
+- LinkedIn
+- Portfolio
